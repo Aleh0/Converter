@@ -1,0 +1,44 @@
+body {
+    margin: 10;
+    color: white;
+    background-color: #F4F4F4;
+    text-align: center;
+    
+}
+.head {
+    
+     background-color: #6943FF;
+     border: 1px;
+     border-radius: 15px;
+     height: 200px;
+     padding: 10px;
+}
+.volume {
+    background-color: white;
+  color: black;
+  border: 2px;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+}
+#input-number {
+    color: white;
+   font-size: 50px;
+   width: 100px;
+   background-color: #6943FF;
+   border: 1px solid white;
+   border-radius: 6px;
+   border-color:  #F4F4F4;
+   margin-bottom: 20px;
+   
+}
+
+button {
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100px;
+}
